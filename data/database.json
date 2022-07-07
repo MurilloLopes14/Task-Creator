@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "title": "E-comerce",
+      "description": "E-comerce do projeto alura",
+      "id": 3
+    },
+    {
+      "title": "Anime Page",
+      "description": "O projeto de anime page com Back & front-end integrados",
+      "id": 4
+    },
+    {
+      "title": "Projeto poesia",
+      "description": "Projeto de poesia que minha mãe pediu",
+      "id": 5
+    },
+    {
+      "title": "Clone de algum site utilizando React",
+      "description": "Clonar algum site legal utilizando as tecnologias do react\n",
+      "id": 6
+    },
+    {
+      "title": "Aprender typeScript",
+      "description": "Apenas aprenda para se localizar melhor nesse meio",
+      "id": 7
+    }
+  ]
+}
